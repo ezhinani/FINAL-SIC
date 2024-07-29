@@ -1,0 +1,23 @@
+my_project/
+|-- public/
+|   |-- css/
+|   |   |-- style.css
+|   |   |-- chart.css
+|   |-- js/
+|   |   |-- chart1.js
+|   |   |-- chart2.js
+|   |-- images/
+|   |   |-- pesonajogja.mp4
+|   |   |-- smk.png
+|   |   |-- logo.png
+|   |   |-- polusi.jpg
+|   |-- index.html
+|   |-- chart.html
+|-- server.mjs
+|-- package.json
+
+
+1. Buat struktur direktori seperti diatas untuk menjalankan website.
+2. Setelah terbuka diaplikasi vscode, lalu buka terminal. Kemudian install dependencies pada terminal dengan perintah "npm install" untuk mendapatkan node_modules yang digunakan untuk menjelaskan server dari website.
+3. Lalu jalankan server dengan perintah "npm start".
+4. Setelah mendapatkan http:/localhost akses melalui link yang disediakan saat sudah memulai program tersebut.
